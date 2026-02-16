@@ -1,0 +1,31 @@
+﻿id,Car Name,Year,Distance,Owner,Fuel,Location,Drive,Type,Price,State
+4883,Datsun Go Plus,2018,44225,1,CNG,DL-14,Manual,HatchBack,362000,Delhi
+811,Datsun Redi Go,2018,27522,2,PETROL,DL-14,Manual,HatchBack,254000,Delhi
+5048,Datsun Redi Go,2018,15925,1,PETROL,DL-14,Manual,HatchBack,297000,Delhi
+6107,Datsun Redi Go,2018,10478,1,PETROL,DL-14,Manual,HatchBack,298000,Delhi
+67,Honda Amaze,2017,97313,2,PETROL,DL-14,Manual,Sedan,401000,Delhi
+7930,Honda Amaze,2018,47914,1,PETROL,DL-14,Manual,Sedan,605000,Delhi
+3421,Honda Amaze,2020,72038,1,PETROL,DL-14,Manual,Sedan,654000,Delhi
+2446,Honda City,2017,66960,1,PETROL,DL-14,Manual,Sedan,494000,Delhi
+3727,Honda Jazz,2016,74374,1,PETROL,DL-14,Manual,HatchBack,439000,Delhi
+3894,Honda Jazz,2017,53491,2,PETROL,DL-14,Manual,HatchBack,517000,Delhi
+3817,Hyundai AURA,2021,38814,1,PETROL,DL-14,Manual,Sedan,627000,Delhi
+3123,KIA SELTOS,2020,18651,1,PETROL,DL-14,Automatic,SUV,1567000,Delhi
+2769,Maruti Alto 800,2019,15918,1,PETROL,DL-14,Manual,HatchBack,328000,Delhi
+6853,Maruti Alto K10,2016,45652,1,PETROL,DL-14,Automatic,HatchBack,337000,Delhi
+6760,Maruti Alto K10,2018,66286,1,PETROL,DL-14,Manual,HatchBack,344000,Delhi
+6367,Maruti Baleno,2017,8011,1,PETROL,DL-14,Manual,HatchBack,556000,Delhi
+7355,Maruti Baleno,2017,32062,1,PETROL,DL-14,Manual,HatchBack,581000,Delhi
+4156,Maruti Ciaz,2017,81868,1,PETROL,DL-14,Manual,Sedan,392000,Delhi
+6194,Maruti New Wagon-R,2021,10555,1,PETROL,DL-14,Manual,HatchBack,501000,Delhi
+7248,Maruti Swift,2015,71434,2,PETROL,DL-14,Manual,HatchBack,333000,Delhi
+5549,Nissan MAGNITE,2022,13772,1,PETROL,DL-14,Manual,SUV,823000,Delhi
+3045,Renault Kiger,2021,11647,1,PETROL,DL-14,Manual,HatchBack,838000,Delhi
+7672,Renault Kiger,2021,7327,1,PETROL,DL-14,Manual,HatchBack,892000,Delhi
+565,Renault Kwid,2022,6592,1,PETROL,DL-14,Automatic,HatchBack,562000,Delhi
+6419,Renault Kwid,2019,9550,1,PETROL,DL-14,Manual,HatchBack,370000,Delhi
+3504,Renault Kwid,2022,5943,1,PETROL,DL-14,Manual,HatchBack,504000,Delhi
+6822,Renault Kwid,2022,5221,1,PETROL,DL-14,Manual,HatchBack,504000,Delhi
+2148,Toyota YARIS,2021,58989,1,PETROL,DL-14,Automatic,Sedan,913000,Delhi
+3885,Volkswagen Ameo,2019,0,1,PETROL,DL-14,Manual,Sedan,604000,Delhi
+4901,xyz,1,13794,1,PETROL,DL-14,Automatic,Sedan,976000,Delhi
