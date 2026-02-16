@@ -1,0 +1,52 @@
+{
+  "name": "Cars24 Premium Theme",
+  "dataColors": [
+    "#1A73E8",
+    "#0D47A1",
+    "#F57C00",
+    "#22C55E",
+    "#CBD5E1",
+    "#6B7280"
+  ],
+  "background": "#F5F7FB",
+  "foreground": "#222222",
+  "tableAccent": "#1A73E8",
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "color": {
+              "solid": {
+                "color": "#222222"
+              }
+            },
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 13
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#6B7280"
+              }
+            },
+            "fontSize": 11
+          }
+        ],
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
